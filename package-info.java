@@ -1,1 +1,1 @@
-package org.tnsindia.AccessSpecifier;
+package org.tnsindia.inheritances.java;
